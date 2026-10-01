@@ -34,6 +34,7 @@ Man mano che scriverò i capitoli, li aggiornerò in questo file indice.
 ### Fondamenti
 
 1. [Introduzione a Huawei VRP](docs/01-introduzione.md)
+2. [CLI e gestione della configurazione](docs/02-cli-e-configurazione.md)
 
 ## Laboratori
 
