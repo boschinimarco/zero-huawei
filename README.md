@@ -23,6 +23,7 @@ Il corso Zero Huawei ha come obiettivo quello di creare assieme le basi solide s
 Una delle frasi che ho coniato e che cito spesso è questa:
 
 **Una guida è una persona sa portarti a destinazione perchè ha percorso molte strade, e sa guidarti in quella migliore.**
+
 Questa frase mi è arrivata dopo aver vissuto una piacevole escursione sul vulcano Stromboli, situato sull'omonima isola di Tromboli, dove la guida conosceva i dettagli di ogni passo.
 sapeva esattamente "cosa fare e cosa non fare". Chiaramente aveva fatto quei percorsi centinaia di volte.
 
