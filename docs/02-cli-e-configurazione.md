@@ -62,8 +62,8 @@ In questo caso puoi usare il comando **quit** due volte:
 
 ```text
 [Huawei]interface GigabitEthernet 0/0/0
-[Huawei-GigabitEthernet0/0/0]quit
-[Huawei]quit
+[Huawei-GigabitEthernet0/0/0]**quit**
+[Huawei]**quit**
 <Huawei>
 ```
 
