@@ -21,7 +21,8 @@ Quando ho ripreso l'apprendimento e "ho chiuso il cerchio" ho capito il motivo d
 Il corso Zero Huawei ha come obiettivo quello di creare assieme le basi solide su cui appoggiare i piedi per affrontare con consapevolezza gli scalini successivi, e crescere.
 
 Una delle frasi che ho coniato e che cito spesso è questa:
-**Una guida è una persona che ti sa portare a destinazione perchè ha percorso tutte le strade, e sa guidarti in quella migliore.**
+
+**Una guida è una persona che ti sa portare a destinazione perchè ha percorso molte strade, e sa guidarti in quella migliore.**
 
 ## Obiettivi del corso
 
