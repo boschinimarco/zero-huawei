@@ -1,23 +1,26 @@
 # Zero Huawei
 
-Questo corso nasce da un'esigenza personale di mettere in ordine le idee che sto acquisendo durante il mio percorso di studi sulla piattaforma Huawei VRP.
+Questo corso nasce da un'esigenza personale di mettere in ordine le idee che sto acquisendo durante il mio percorso di formazione sulla piattaforma Huawei VRP.
 
-Alcune persone mi hanno chiesto di poter seguire dei corsi di formazione su networking applicato a Huawei.
+Alcune persone mi hanno chiesto di poter seguire un corso corso di formazione su networking applicato a Huawei con me, e per poterlo fare devo prima avere conoscenze profonde sull'argomento Huawei.
 
 Inoltre da un po di tempo volevo imparare il linguaggio markdown per scrivere documentazione in formato standard e trasportabile.
 
-Così ho pensato di unire entrambe le attività e scrivere il corso Zero Huawei su GitHub per imparare anche markdown!
+Così ho pensato di unire entrambe le attività e scrivere il corso Zero Huawei su GitHub per imparare anche il linguaggio markdown!
 
 ## Iniziamo
 
 Questo corso è pensato per darti le basi di conoscenza sull'utilizzo del sistema operativo **Huawei VRP**.
-Nel mio percorso di studi ho attraversato alcuni vortici in cui ho perso la direzione e mi sono sentito smarrito. Ho messo in pausa l'apprendimento e l'ho ripreso dopo un certo periodo.
+
+Nel mio primo approccio con Huawei VRP da autodidatta ho attraversato alcuni vortici in cui ho perso la direzione e mi sono sentito smarrito. (Mi mancavano i fondamenti).
+
+Ho messo in pausa l'apprendimento e l'ho ripreso dopo un certo periodo, con una direzione ben precisa: partire dalle basi senza dare per scontato nulla.
 
 Quando ho ripreso l'apprendimento e "ho chiuso il cerchio" ho capito il motivo di ciò che mi era successo: avevo semplicemente bruciato alcune tappe, andando subito ad utilizzare i comandi avanzati senza aver messo bene le basi su cui poggiare i piedi in modo solido.
 
-Il corso Zero Huawei ha come obiettivo quello di creare assieme le basi solide su cui appoggiare i piedi per affrontare con consapevolezza gli scalini successivi.
+Il corso Zero Huawei ha come obiettivo quello di creare assieme le basi solide su cui appoggiare i piedi per affrontare con consapevolezza gli scalini successivi, e crescere.
 
-Una delle mie frasi che ho coniato e che cito spesso è questa:
+Una delle frasi che ho coniato e che cito spesso è questa:
 **Una guida è una persona che ti sa portare a destinazione perchè ha percorso tutte le strade, e sa guidarti in quella migliore.**
 
 ## Obiettivi del corso
@@ -31,8 +34,6 @@ Man mano che scriverò i capitoli, li aggiornerò in questo file indice.
 ### Fondamenti
 
 1. [Introduzione a Huawei VRP](docs/01-introduzione.md)
-2. CLI e gestione della configurazione
-
 
 ## Laboratori
 
