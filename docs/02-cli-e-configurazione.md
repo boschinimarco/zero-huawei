@@ -22,10 +22,14 @@ N nessun bit di parità
 1 bit di stop
 ```
 
-Un software emulatore di terminale per poter aprire una sessione è **Putty**
+Un software emulatore di terminale per poter aprire una sessione è **Putty**.
+
 Particolarmente utile per me è stato aver impostato il carattere **Backspace key** con l'opzione **Control-?**.
 
-In questo corso useremo il software di emulazione **eNSP di Huawei**, per cui non ti servirà avere questa intrefaccia fisica per seguire il corso Zero Huawei.
+Grazie a questa opzione il comando Backspace cancellerà l'ultimo carattere appena scritto. Diversamente non funzionerà correttamente.
+
+In questo corso useremo il software di emulazione **eNSP di Huawei**, per cui non ti servirà avere questa intrefaccia fisica per seguire il corso **Zero Huawei**.
+
 Tuttavia è importante conoscere questi aspetti quando metterai le mani su un apparato fisico.
 
 Dopo l'accesso al dispositivo viene normalmente visualizzata la **User View**:
@@ -34,7 +38,9 @@ Dopo l'accesso al dispositivo viene normalmente visualizzata la **User View**:
 <Huawei>
 ```
 
-Nella **User View** è principalmente possibile visualizzare informazioni diagnostiche, ma non è possibile applicare configurazioni. Per applicare configurazioni è necessario passare nella **System View** tramite il comando:
+Nella **User View** è principalmente possibile visualizzare informazioni diagnostiche, ma non è possibile applicare configurazioni.
+
+Per poter applicare configurazioni è necessario passare nella **System View** tramite il comando:
 
 ```text
 <Huawei>system-view
@@ -42,6 +48,7 @@ Nella **User View** è principalmente possibile visualizzare informazioni diagno
 ```
 
 La System View permette di modificare la configurazione del dispositivo.
+
 Per tornare alla view precedente, in questo caso alla User View, si usa il comando **quit**:
 
 ```text
