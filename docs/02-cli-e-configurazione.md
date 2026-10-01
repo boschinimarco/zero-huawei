@@ -4,7 +4,7 @@ La configurazione degli apparati Huawei può essere effettuata tramite **Command
 
 In questo corso Zero Huawei tratterò solo i comandi tramite la CLI.
 
-La (**CLI**) è accessibile tramite:
+La **CLI** è accessibile tramite:
 - porta console fisica seriale RS232
 - connessione SSH sicura via IP
 - connessione Telnet in chiaro via IP
