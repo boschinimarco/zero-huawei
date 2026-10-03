@@ -44,7 +44,8 @@ Man mano che scriverò i capitoli, li aggiornerò in questo file indice.
 1. [Introduzione a Huawei VRP](docs/01-introduzione.md)
 2. [CLI e gestione della configurazione](docs/02-cli-e-configurazione.md)
 3. [Muoversi nelle view](docs/03-console.md)
-
+4. [Salvare la configurazione](docs/04-save.md)
+   
 ## Laboratori
 
 Il corso include laboratori pratici realizzabili utilizzando l'ambiente di emulazione eNSP o apparati fisici.
