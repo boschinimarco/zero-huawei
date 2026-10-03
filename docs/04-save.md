@@ -99,12 +99,15 @@ Info: Current terminal monitor is on.
 
 Abbiamo imparato un'altra cosa nel frattempo: per annullare un comando si utilizza **undo** scritto prima del comando da annullare.
 
+
+annullo terminal monitor
 ```text
-#annullo terminal monitor
 <R1>undo terminal monitor
 Info: Current terminal monitor is off.
+```
 
-#abilito terminal monitor
+abilito terminal monitor
+```text
 <R1>terminal monitor
 Info: Current terminal monitor is on.
 ```
