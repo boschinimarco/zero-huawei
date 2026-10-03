@@ -6,7 +6,7 @@ Questo significa che al riavvio successivo quella configurazione non sarà prese
 
 Facciamo un semplice laboratorio per comprendere questo concetto:
 
-Riprendi il lab01 realizzato nel modulo precedente in cui abbiamo parlato delle viste.
+Riprendi il lab01 realizzato nel modulo precedente in cui abbiamo parlato delle *user-view* e *system-view*.
 
 Entra nel terminale di R1 (doppio click) e cambia il nome del router con questi due comandi:
 
