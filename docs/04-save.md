@@ -38,7 +38,7 @@ Noterai che il nome del router sarà tornato a quello di default
 
 ### Come salvare la configurazione sulla memoria FLASH
 
-Per salvare la configurazione devi utilizzare il comando **save** dal menù user-view.
+Per salvare la configurazione devi utilizzare il comando `save` dal menù *user-view*.
 
 Assegna nuovamente il nome al router, e poi salva la configurazione.
 
@@ -78,36 +78,37 @@ Queste scritte vengono generate dal **terminal monitor** di VRP.
 
 ### Come disattivare terminal monitor
 
-Dalla vista **user-view** digita il comando **undo terminal monitor**
+Dalla vista *user-view* digita il comando `undo terminal monitor`
 
 ```text
 <R1>undo terminal monitor
 Info: Current terminal monitor is off.
 ```
 
-Se ora proverai a salvare la configurazione con il comando **save** noterai che non verranno stampati i messaggi dal terminal monitor.
+Se ora proverai a salvare la configurazione con il comando `save` noterai che non verranno stampati i messaggi dal terminal monitor.
 
 ![console eNSP](../images/ensp-undo-terminal-monitor.png)
 
 Molto meglio!
 Tuttavia in alcune situazioni può tornare utile avere il terminal monitor attivo.
-Potrai sempre riattivarlo con il comando **terminal monitor**
+Potrai sempre riattivarlo con il comando `terminal monitor`
 
 ```text
 <R1>terminal monitor
 Info: Current terminal monitor is on.
 ```
 
-Abbiamo imparato un'altra cosa nel frattempo: per annullare un comando si utilizza **undo** scritto prima del comando da annullare.
+Abbiamo imparato un'altra cosa nel frattempo: per annullare un comando si utilizza `undo` scritto prima del comando da annullare.
 
+Esegui queste due esercitazioni:
 
-annullo terminal monitor
+Annulla terminal monitor
 ```text
 <R1>undo terminal monitor
 Info: Current terminal monitor is off.
 ```
 
-abilito terminal monitor
+Abilita terminal monitor
 ```text
 <R1>terminal monitor
 Info: Current terminal monitor is on.
