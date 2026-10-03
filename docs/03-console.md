@@ -5,7 +5,7 @@ Abbiamo visto nel capitolo precedente le modalità fisiche di connessione tramit
 
 Su **eNSP** costruiamo il nostro primo laboratorio usando tre router, scegli il modello con il nome **Router**. Per essere chiari, il router nella colonna di sinistra nella terza riga.
 
-![Immagine 1](images/ensp1-console-1.png)
+![eNSP Lab](../images/ensp1-console-1.png)
 
 R1 è di colore arancione perchè è stato selezionato.
 R2 è di colore azzurro perchè e accesso.
@@ -15,7 +15,7 @@ Il link tra R1 e R2 ha i puntini verdi perchè il link è attivo tra i due route
 Il link tra R2 e R3 ha i puntini rossi perchè il link NON è attivo tra i due router poichè R3 è spento.
 
 Fai doppio click sul router R1 per accedere alla console. 
-![Immagine 1](images/ensp1-console-2.png)
+![eNSP console](../images/ensp1-console-2.png)
 
 ## Lab 1
 Prendiamo ora confidenza con i livelli delle viste.
