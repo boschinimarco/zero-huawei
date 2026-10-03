@@ -3,16 +3,21 @@
 L'accesso console è il metodo principale con cui ti puoi collegare al dispsitivo, sia esso un router, uno switch o un'access point.
 Abbiamo visto nel capitolo precedente le modalità fisiche di connessione tramite cavo console.
 
-Su **eNSP** costruiamo il nostro primo laboratorio usando tre router, scegli il modello con il nome **Router**. Per essere chiari, il router nella colonna di sinistra nella terza riga.
+Su **eNSP** costruiamo il nostro primo laboratorio usando tre router, scegli il modello con il nome **Router**. 
+
+Per essere chiari, il router nella colonna di sinistra nella terza riga.
 
 ![Lab eNSP](../images/ensp-console-1.png)
 
-R1 è di colore arancione perchè è stato selezionato.
-R2 è di colore azzurro perchè e accesso.
-R3 è di colore blu perchè NON è acceso.
+R1 è di colore **arancione** perchè è stato selezionato.
+
+R2 è di colore **azzurro** perchè e accesso.
+
+R3 è di colore **blu** perchè NON è acceso.
 
 Il link tra R1 e R2 ha i puntini verdi perchè il link è attivo tra i due router.
-Il link tra R2 e R3 ha i puntini rossi perchè il link NON è attivo tra i due router poichè R3 è spento.
+
+Il link tra R2 e R3 ha i puntini rossi perchè il link NON è attivo tra i due router (poichè R3 è spento).
 
 Fai doppio click sul router R1 per accedere alla console. 
 ![console eNSP](../images/ensp-console-2.png)
