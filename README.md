@@ -45,6 +45,7 @@ Man mano che scriverò i capitoli, li aggiornerò in questo file indice.
 2. [CLI e gestione della configurazione](docs/02-cli-e-configurazione.md)
 3. [Muoversi nelle view](docs/03-console.md)
 4. [Salvare la configurazione](docs/04-save.md)
+5. [Uso avanzato della CLI](docs/05-uso-avanzato-della-cli.md)
    
 ## Laboratori
 
