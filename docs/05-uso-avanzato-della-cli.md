@@ -32,7 +32,7 @@ Otterrai questo risultato:
 
 Per visualizzare **la riga successiva** (1 sola riga) premi il tasto **ENTER**
 
-![console eNSP](../images/05/vrp-user-view-help-enter.png)
+![console eNSP](../images/05/vrp-user-view-help-invio.png)
 
 Per visualizzare **le prossime 24 righe successive** premi il tasto **SPAZIO**
 
