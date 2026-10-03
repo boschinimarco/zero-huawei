@@ -5,7 +5,7 @@ Abbiamo visto nel capitolo precedente le modalità fisiche di connessione tramit
 
 Su **eNSP** costruiamo il nostro primo laboratorio usando tre router, scegli il modello con il nome **Router**. 
 
-Per essere chiari, il router nella colonna di destra nella terza riga.
+Per essere più chiari: seleziona il router situato nella colonna di destra nella terza riga.
 
 ![Lab eNSP](../images/ensp-console-1.png)
 
