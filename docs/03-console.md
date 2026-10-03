@@ -1,6 +1,6 @@
 ## Console
 
-L'accesso console è il metodo principale con cui ti puoi collegare al dispsitivo, sia esso un router, uno switch o un'access point.
+L'accesso console è il metodo principale con cui ti puoi collegare al dispositivo, sia esso un router, uno switch o un'access point.
 Abbiamo visto nel capitolo precedente le modalità fisiche di connessione tramite cavo console.
 
 Su **eNSP** costruiamo il nostro primo laboratorio usando tre router, scegli il modello con il nome **Router**. 
