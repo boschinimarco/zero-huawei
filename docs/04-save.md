@@ -114,6 +114,14 @@ Abilita terminal monitor
 Info: Current terminal monitor is on.
 ```
 
+NOTA: dopo un certo tempo di inattività, VRP scollegherà l'utente dalla system-view riportandolo alla user-view.
+
+Ogni volta che questo succede, viene riattivata la funzione `terminal monitor`.
+
+Dovrai perciò ricordarti di disattivare il terminal monitor ad ogni accesso.
+
+Nel prossimo capitolo vedremo come utilizzare delle scorciatoie da utilizzare nella CLI.
+
 
 
 
