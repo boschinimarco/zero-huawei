@@ -65,3 +65,13 @@ Scrivendo di nuovo **quit** si torna alla user-view
 [huawei-interface-GigabitEthernet0/0/0] **CTRL+Z**
 <huawei>
 ```
+
+## Salvataggio del laboratorio eNSP
+
+Il laboratorio appena creato non è ancora salvato. Chiudendo eNSP si perderà la topologia creata.
+
+Salva il laboratorio appena creato con il pulsante evidenziato nell'immagine qui sotto:
+![Salvataggio Lab eNSP](../images/ensp-save-1.png)
+
+Quando avrai salvato il laboratorio, nel titolo in alto comparirà il nome del file assegnato.
+![Lab eNSP](../images/ensp-save-2.png)
