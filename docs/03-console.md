@@ -20,18 +20,18 @@ Fai doppio click sul router R1 per accedere alla console.
 ## Lab 1
 Prendiamo ora confidenza con i livelli delle viste.
 
-Questo è il livello **user-view**, identificabile grazie ai caratteri **<>**
+Questo è il livello **user-view**, identificabile con i caratteri ai caratteri **<>**
 ```text
 <huawei>
 ```
 
-Con il comando **system-view** si passa alla vista system-view
+Con il comando **system-view** si passa alla vista system-view identificabile con i caratteri **[]**
 ```text
 <huawei>system-view
 [huawei]
 ```
 
-Con il comando **interface GE0/0/0** si passa alla vista **interface-view**
+Con il comando **interface GE0/0/0** si passa alla vista **interface-view** identificabile con **huawei-interface**.
 ```text
 [huawei]interface GE0/0/0
 [huawei-interface-GigabitEthernet0/0/0]
