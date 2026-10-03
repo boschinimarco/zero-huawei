@@ -76,7 +76,7 @@ Queste scritte vengono generate dal **terminal monitor** di VRP.
 
 È possibile disabilitare il terminal monitor per disattivare questi messaggi.
 
-##Come disattivare terminal monitor
+### Come disattivare terminal monitor
 
 Dalla vista **user-view** digita il comando **undo terminal monitor**
 
