@@ -42,5 +42,19 @@ Per uscire (quit) dalla visualizzazione dell'help premi il tasto `q`
 
 ![console eNSP](../images/05/vrp-user-view-help-quit.png)
 
+### Autocompletamento con il tasto TAB
+
+Durante questi laboratori ti sarai accorto che scrivere i comandi per esteso può richiedere tempo.
+
+Usando il tasto TAB possiamo chiedere alla CLI di completare la scrittura del comando che abbiamo iniziato.
+
+Fai questo semplice laboratorio: 
+
+partendo dalla *user-view* digita `sys` e poi premi il tasto **TAB**.
+
+![console eNSP](../images/05/vrp-cli-tab.png)
+
+Come avrai potuto notare, la CLI ha completato il comando `system-view` in quanto era l'unico comando presente con quelle tre lettere iniziali.
+
 
 
