@@ -75,3 +75,11 @@ Salva il laboratorio appena creato con il pulsante evidenziato nell'immagine qui
 
 Quando avrai salvato il laboratorio, nel titolo in alto comparirà il nome del file assegnato.
 ![Lab eNSP](../images/ensp-save-2.png)
+
+Quest'azione di salvataggio salva **la topologia**, ovvero i dispositivi inseriti, i collegamenti, le label di testo e altri elemeni grafici come rettangoli, cerchi.
+
+**Il comando salva di eNSP NON SALVA le configurazioni inserite all'interno dei dispositivi.**
+
+Le configurazioni vanno salvate con un comando apposito dal terminale VRP.
+
+
