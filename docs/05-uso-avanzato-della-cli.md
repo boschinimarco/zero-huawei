@@ -56,5 +56,33 @@ partendo dalla *user-view* digita `sys` e poi premi il tasto **TAB**.
 
 Come avrai potuto notare, la CLI ha completato il comando `system-view` in quanto era l'unico comando presente con quelle tre lettere iniziali.
 
+### Errori nella scrittura dei comandi
 
+La CLI segnala gli errori quando vengono digitati dei comandi errati.
+
+Ad esempio, se dalla **user-view** provi a scrivere il comando `sysname R1` per impostare il nome al dispositivo, VRP risponderà con un errore:
+
+```file
+<R1>sysname R1
+    ^
+Error: Unrecognized command found at '^' position.
+```
+
+La CLI ha risposto dicendo "Errore: alla posizione segnalata con il carattere '^' è presente un comando non conosciuto/non valido.
+
+Proviamo ora a scrivere un comando valido per la **user-view** ma con un parametro errato:
+
+```file
+<R1>undo terminal audio
+                  ^
+Error: Unrecognized command found at '^' position.
+```
+
+Il comando `undo terminal` è un comando conosciuto, ma il parametro **audio** è errato, ed è stato segnalato con il carattere '^' nella posizione dove si trova l'errore.
+
+Come possiamo chiedere a VRP la lista delle opzioni valide?
+
+Sempre con il punto di domanda **?**
+
+![console eNSP](../images/05/vrp-cli-help.png)
 
